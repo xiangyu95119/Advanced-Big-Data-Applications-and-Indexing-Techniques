@@ -14,7 +14,7 @@
     "etag": "^1.8.1",
     "express": "^4.17.1",
     "jsonschema": "^1.2.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "redis": "^2.8.0"
   }
 }
